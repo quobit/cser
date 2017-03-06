@@ -13,4 +13,4 @@ A curated list about Computer Science Education Research
 * [Computer Science Education at King's College](http://blogs.kcl.ac.uk/cser/category/computer-science-education/)
 * [Computer Science Education at Univertity of Canterbury](http://www.cosc.canterbury.ac.nz/research/RG/CSE/)
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
-* [CS Field Guide](http://www.csfieldguide.org.nz/)
+* [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
