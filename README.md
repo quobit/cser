@@ -14,3 +14,9 @@ A curated list about Computer Science Education Research
 * [Computer Science Education at Univertity of Canterbury](http://www.cosc.canterbury.ac.nz/research/RG/CSE/)
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
 * [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
+
+## Conferences
+
+* [ACM SIGCSE](http://sigcse.org/)
+* [European Computer Science Summit](http://www.informatics-europe.org/ecss)
+* [Innovation and Technology in Computer Science Education (ITiCSE)](http://iticse.acm.org/)
