@@ -22,6 +22,7 @@ A curated list about Computer Science Education Research
 * [Innovation and Technology in Computer Science Education (ITiCSE)](http://iticse.acm.org/)
 * [Koli Calling Conference on Computing Education Research](http://www.kolicalling.fi/)
 * [WiPSCE (Workshop in Primary and Secondary Computing Education)](http://www.wipsce.org/)
+* [ICER (International Computing Education Research)](https://icer.hosting.acm.org/)
 
 ## Journals
 
