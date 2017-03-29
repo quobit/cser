@@ -27,4 +27,4 @@ A curated list about Computer Science Education Research
 
 * [Journal of Educational Computing Research](http://journals.sagepub.com/loi/jeca)
 * [TOCE (Transactions on Computing Education)](http://toce.acm.org/)
-* [Journal of Computer Science Education](http://jocse.org/)
+* [Journal of Computer Science Education](http://www.tandfonline.com/toc/ncse20/current)
