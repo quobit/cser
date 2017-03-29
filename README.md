@@ -20,6 +20,7 @@ A curated list about Computer Science Education Research
 * [ACM SIGCSE](http://sigcse.org/)
 * [European Computer Science Summit](http://www.informatics-europe.org/ecss)
 * [Innovation and Technology in Computer Science Education (ITiCSE)](http://iticse.acm.org/)
+* [Koli Calling Conference on Computing Education Research](http://www.kolicalling.fi/)
 
 ## Journals
 
