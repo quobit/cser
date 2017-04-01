@@ -1,21 +1,6 @@
 # cser
 A curated list about Computer Science Education Research
 
-* [ISTE Standards for CS educators](http://www.iste.org/standards/standards/standards-for-computer-science-educators)
-* [CS Principles](http://csprinciples.org/)
-* [K-12 CS Framework](https://k12cs.org/)
-* [CS Teaching tips](http://csteachingtips.org/)
-* [Computer Science Teacher](http://blog.acthompson.net/)
-* [Computing Education Blog](https://computinged.wordpress.com/)
-* [CECE Blog](http://ceceblog.uni-muenster.de/) - News about computing education in schools in Europe (stalled)
-* [Computer Science Education Research at the University of Adelaide](https://blogs.adelaide.edu.au/cser/)
-* [Computer Science Education Research at Google](https://edu.google.com/resources/computerscience/research/)
-* [Computer Science Education at King's College](http://blogs.kcl.ac.uk/cser/category/computer-science-education/)
-* [Computer Science Education at Univertity of Canterbury](http://www.cosc.canterbury.ac.nz/research/RG/CSE/)
-* [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
-* [A CS Education Research Class Syllabus](https://computinged.wordpress.com/2015/11/18/a-cs-research-class-syllabus/)
-* [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
-
 ## Conferences
 
 * [ACM SIGCSE](http://sigcse.org/)
@@ -30,3 +15,32 @@ A curated list about Computer Science Education Research
 * [Journal of Educational Computing Research](http://journals.sagepub.com/loi/jeca)
 * [TOCE (Transactions on Computing Education)](http://toce.acm.org/)
 * [Journal of Computer Science Education](http://www.tandfonline.com/toc/ncse20/current)
+
+## Standards and Frameworks
+
+* [ISTE Standards for CS educators](http://www.iste.org/standards/standards/standards-for-computer-science-educators)
+* [CS Principles](http://csprinciples.org/)
+* [K-12 CS Framework](https://k12cs.org/)
+
+## Blogs
+
+* [CS Teaching tips](http://csteachingtips.org/)
+* [Computer Science Teacher](http://blog.acthompson.net/)
+* [Computing Education Blog](https://computinged.wordpress.com/)
+* [CECE Blog](http://ceceblog.uni-muenster.de/) - News about computing education in schools in Europe (stalled)
+* [Computer Science Education Research at the University of Adelaide](https://blogs.adelaide.edu.au/cser/)
+* [Computer Science Education Research at Google](https://edu.google.com/resources/computerscience/research/)
+* [Computer Science Education at King's College](http://blogs.kcl.ac.uk/cser/category/computer-science-education/)
+* [Computer Science Education at Univertity of Canterbury](http://www.cosc.canterbury.ac.nz/research/RG/CSE/)
+
+## References
+
+* [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
+
+## Courses
+
+* [A CS Education Research Class Syllabus](https://computinged.wordpress.com/2015/11/18/a-cs-research-class-syllabus/)
+
+## Resources
+
+* [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
