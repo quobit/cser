@@ -24,9 +24,9 @@ A curated list about Computer Science Education Research
 
 ## Blogs
 
-* [CS Teaching tips](http://csteachingtips.org/)
 * [Computer Science Teacher](http://blog.acthompson.net/)
 * [Computing Education Blog](https://computinged.wordpress.com/)
+* [Bits and Behavior (A.J. Ko's blog)](http://blogs.uw.edu/ajko/)
 * [CECE Blog](http://ceceblog.uni-muenster.de/) - News about computing education in schools in Europe (stalled)
 * [Computer Science Education Research at the University of Adelaide](https://blogs.adelaide.edu.au/cser/)
 * [Computer Science Education Research at Google](https://edu.google.com/resources/computerscience/research/)
@@ -44,3 +44,4 @@ A curated list about Computer Science Education Research
 ## Resources
 
 * [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
+* [CS Teaching tips](http://csteachingtips.org/)
