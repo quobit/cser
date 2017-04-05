@@ -36,6 +36,7 @@ A curated list about Computer Science Education Research
 ## References
 
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
+* [The CS Education Zoo](http://webyrd.net/zoo.html)
 
 ## Courses
 
