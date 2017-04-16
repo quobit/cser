@@ -35,7 +35,7 @@ A curated list about Computer Science Education Research
 
 ## References
 
-* [Future Directions in Computing Education Summit white papers](https://purl.stanford.edu/mn485tg1952)
+* [Future Directions in Computing Education Summit white papers (2013)](https://purl.stanford.edu/mn485tg1952) (44 papers)
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
 * [Building a Operating System for Computer Science Education](http://outlier.uchicago.edu/computerscience/OS4CS/)
 * [The CS Education Zoo](http://webyrd.net/zoo.html)
