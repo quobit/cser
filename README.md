@@ -12,9 +12,10 @@ A curated list about Computer Science Education Research
 
 ## Journals
 
+* [Computers & Education](https://www.journals.elsevier.com/computers-and-education/)
+* [Journal of Computer Science Education](http://www.tandfonline.com/toc/ncse20/current)
 * [Journal of Educational Computing Research](http://journals.sagepub.com/loi/jeca)
 * [TOCE (Transactions on Computing Education)](http://toce.acm.org/)
-* [Journal of Computer Science Education](http://www.tandfonline.com/toc/ncse20/current)
 
 ## Standards and Frameworks
 
