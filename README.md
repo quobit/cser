@@ -41,6 +41,7 @@ A curated list about Computer Science Education Research
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer)
 * [Building a Operating System for Computer Science Education](http://outlier.uchicago.edu/computerscience/OS4CS/)
 * [The CS Education Zoo](http://webyrd.net/zoo.html)
+* [CS4EDU: Computer Science for Education](http://cs4edu.cs.purdue.edu/)
 
 ## Courses
 
