@@ -52,3 +52,4 @@ A curated list about Computer Science Education Research
 
 * [CS Field Guide](http://www.csfieldguide.org.nz/) - [github repo](https://github.com/uccser/cs-field-guide)
 * [CS Teaching tips](http://csteachingtips.org/)
+* [CS-POGIL](http://cspogil.org/) - Process Oriented Guided Inquiry Learning in Computer Science
