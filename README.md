@@ -45,6 +45,7 @@ A curated list about Computer Science Education Research
 * [CS4EDU: Computer Science for Education](http://cs4edu.cs.purdue.edu/)
 * [Colleen M. Lewis Research](http://blogs.hmc.edu/lewis/research/)
 * [Ten Simple Rules for Being a Good Educational Research Partner](http://third-bit.com/2018/01/15/ten-rules-education-research-partnership.html)
+* [How to Teach Programming (and Other Things)](http://third-bit.com/teaching/) - with lots of references
 
 ## Courses
 
