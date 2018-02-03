@@ -16,6 +16,7 @@ A curated list about Computer Science Education Research
 * [Journal of Computer Science Education](http://www.tandf.co.uk/journals/cse)
 * [Journal of Educational Computing Research](http://journals.sagepub.com/loi/jeca)
 * [TOCE (Transactions on Computing Education)](http://toce.acm.org/)
+* [International Journal of Computer Science Education in Schools (IJCSES)](http://www.ijcses.org/)
 
 ## Standards and Frameworks
 
