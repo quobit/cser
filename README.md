@@ -25,10 +25,11 @@ A curated list about Computer Science Education Research
 
 ## Blogs
 
-* [Computer Science Teacher](http://blog.acthompson.net/)
+* [Philip J. Guo](http://www.pgbovine.net/)
 * [Computing Education Blog](https://computinged.wordpress.com/)
 * [Bits and Behavior (A.J. Ko's blog)](http://blogs.uw.edu/ajko/)
 * [David Weintrop](http://dweintrop.github.io/) - blocks-based and text-based programming environments (among other research)
+* [Computer Science Teacher](http://blog.acthompson.net/)
 * [CECE Blog](http://ceceblog.uni-muenster.de/) - News about computing education in schools in Europe (stalled)
 * [Computer Science Education Research at the University of Adelaide](https://blogs.adelaide.edu.au/cser/)
 * [Computer Science Education Research at Google](https://edu.google.com/resources/computerscience/research/)
