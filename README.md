@@ -22,6 +22,7 @@ A curated list about Computer Science Education Research
 * [ISTE Standards for CS educators](http://www.iste.org/standards/standards/standards-for-computer-science-educators)
 * [CS Principles](http://csprinciples.org/)
 * [K-12 CS Framework](https://k12cs.org/)
+* [Expanding Computing Education Pathways](http://ecepalliance.org/)
 
 ## Blogs
 
