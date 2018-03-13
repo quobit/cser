@@ -36,7 +36,7 @@ A curated list about Computer Science Education Research
 * [Computer Science Education Research at the University of Adelaide](https://blogs.adelaide.edu.au/cser/)
 * [Computer Science Education Research at Google](https://edu.google.com/resources/computerscience/research/)
 * [Computer Science Education at King's College](http://blogs.kcl.ac.uk/cser/category/computer-science-education/)
-* [Computer Science Education at Univertity of Canterbury](http://www.cosc.canterbury.ac.nz/research/RG/CSE/)
+* [Computer Science Education at Univertity of Canterbury](http://www.canterbury.ac.nz/engineering/schools/csse/research/cse/)
 * [Centre for Computing Science Education at University of Glasgow](http://www.ccse.ac.uk/)
 
 ## References
