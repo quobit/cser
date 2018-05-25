@@ -38,6 +38,9 @@ A curated list about Computer Science Education Research
 * [Computer Science Education at King's College](http://blogs.kcl.ac.uk/cser/category/computer-science-education/)
 * [Computer Science Education at Univertity of Canterbury](http://www.canterbury.ac.nz/engineering/schools/csse/research/cse/)
 * [Centre for Computing Science Education at University of Glasgow](http://www.ccse.ac.uk/)
+* [CS0](https://cszero.wordpress.com/) - A blog on Computer (Science (Education (Research)))
+* [Other CS Ed Blogs](https://cszero.wordpress.com/other/)
+* [Computer Science Education Blog Roll](https://blogs.msdn.microsoft.com/alfredth/2011/12/08/computer-science-education-blog-roll/)
 
 ## References
 
