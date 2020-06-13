@@ -44,6 +44,7 @@ A curated list about Computer Science Education Research
 
 ## References
 
+* [The Cambridge Handbook of Computing Education Research](https://doi.org/10.1017/9781108654555)
 * [Future Directions in Computing Education Summit white papers (2013)](https://purl.stanford.edu/mn485tg1952) (44 papers)
 * [Emergence of computing education as a research discipline](https://aaltodoc.aalto.fi/handle/123456789/18195) - PhD dissertation (2015)
 * [Andrew J. Ko's CSER page](https://faculty.washington.edu/ajko/cer) (and [homepage](http://faculty.washington.edu/ajko/))
