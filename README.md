@@ -59,6 +59,7 @@ A curated list about Computer Science Education Research
 ## Courses
 
 * [A CS Education Research Class Syllabus](https://computinged.wordpress.com/2015/11/18/a-cs-research-class-syllabus/)
+* [CSER MOOCs - Univ. Adelaide](https://csermoocs.adelaide.edu.au/)
 
 ## Resources
 
